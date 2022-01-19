@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center"> Hi there, I'm Cigdem 👋</h1>
+<h3>I am a .Net Developer. I love coding and creating new things.</h3>
+
+- 😄 Pronouns: she/they
+- 🔭 I’m currently working on two personal projects; a dating app and a blog app
+- ⚡ Fun fact: My learning curve is 2x steeper than the avarage
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/cgdemt/" target="blank">Cigdem Turkmen </a>
+
