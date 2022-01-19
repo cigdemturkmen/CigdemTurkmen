@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <h1> Hi there, I'm Cigdem 👋</h1>
-<h3>I am a passionate full-stack developer from Turkey. I love coding and creating new things.</h3>
+<h3>I am a passionate full-stack developer from Turkey. I love coding, creating new things.</h3>
 
-- 😄 Pronouns: she/they
+
 - 🔭 I’m currently working on two personal projects; a dating app and a blog app
+- 💬 Ask me about Asp.Net Core
+- 🌱 I’m currently learning React and Docker
+- 😄 Pronouns: she/they
 - ⚡ Fun fact: My learning curve is 2x steeper than the avarage
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/cgdemt/" target="blank">Cigdem Turkmen </a>
 
