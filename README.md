@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="left"> Hi there, I'm Cigdem <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
-<h3 align="left">I am a passionate full-stack developer from Turkey. I love coding and creating new things.</h3>
+<h3 align="left">I am a passionate full-stack developer from Turkey. I love coding and creating new things. </h3>
 <h5 align="left">📍 Currently base at: Ankara</h5>
 
-- 🔭 I’m currently working on two personal projects; a dating app and a blog app
-- 💬 Ask me about Asp.Net Core, MVC Framework
-- 🌱 I’m currently learning React and Docker
+- 💬 Ask me about Asp.Net Core, MVC Framework, Angular, Javascript
+- 🌱 I’m currently learning Solidity
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: My learning curve is 2x steeper than the avarage
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/cgdemt/" target="blank">Cigdem Turkmen </a>
