@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h5 align="left">📍 Currently base at: Ankara</h5>
 
 - 💬 Ask me about Asp.Net Core, MVC Framework, Angular, Javascript
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m interested in blockchain technologies
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: My learning curve is 2x steeper than the avarage
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/cgdemt/" target="blank">Cigdem Turkmen </a>
